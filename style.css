@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-color: #646B63;
 }
 .btn{
     height: 200px;
@@ -14,13 +15,13 @@ body{
     justify-content: center;
 }
 .green{
-    background-color: #646B63;
+    background-color: lightseagreen;
 }
 .red{
     background-color: #D95030;
 }
 .purple{
-    background-color: #84C3BE;
+    background-color: lightskyblue ;
 }
 .yellow{
     background-color: #FFA420;
